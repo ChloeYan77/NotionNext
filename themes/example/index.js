@@ -62,7 +62,7 @@ const LayoutBase = props => {
   //   }, [onLoading])
 
   return (
-        <div id='theme-example' className={`${siteConfig('FONT_STYLE')} dark:text-gray-300  bg-[#f1f5f9] dark:bg-[#334155] scroll-smooth`} >
+        <div id='theme-example' className={`${siteConfig('FONT_STYLE')} dark:text-gray-300  bg-[#f8fafc] dark:bg-[#4b5563] scroll-smooth`} >
 
             <Style/>
 
